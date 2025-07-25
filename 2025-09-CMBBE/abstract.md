@@ -12,6 +12,4 @@
 
 ---
 
-🔗 The link to the HAL open archive will be added here once the abstract is validated and available online.
-
-In the meantime, feel free to browse this repository for supplementary materials or contact the main author.
+🔗 [HAL open archive](https://hal.science/hal-05179542)
